@@ -1,0 +1,6 @@
+from .detectar_borda import detectar_borda
+from .inverter_cores import inverter_cores
+from .inverter_horizontalmente import inverter_horizontalmente
+from .inverter_verticalmente import inverter_verticalmente
+from .redimensionar import redimensionar_imagem
+from .rotacionar_imagem import rotacionar_imagem

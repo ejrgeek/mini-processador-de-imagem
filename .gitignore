@@ -1,0 +1,25 @@
+# Configuração do ambiente virtual
+venv/
+
+# Arquivos de dependências
+__pycache__/
+dist/
+build/
+*.egg-info/
+
+# Arquivos gerados pelo Streamlit
+streamlit/credentials.toml
+
+# Arquivos gerados pelos testes
+test-results/
+
+# Arquivos gerados pelo editor de código
+.vscode/
+
+# Outros arquivos e pastas gerados
+*.log
+*.swp
+*.swo
+*.DS_Store
+*.pyc
+__pycache__/
